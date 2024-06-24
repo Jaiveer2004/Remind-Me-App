@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Get in Touch 📬
 
-Have questions or feedback? Reach out to us at support@remindmeapp.com or open an issue on GitHub.
+Have questions or feedback? Reach out to us at originals.thequartet@gmail.com or open an issue on GitHub.
 
 ---
 
